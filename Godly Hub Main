@@ -1,4 +1,4 @@
 -- Mad City Script
 if game.PlaceId == 1224212277 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DcYhL/Godly-Hub.Mad-City/main/Godly%20Hub%20Mad%20City", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DcYhL/Godly-Hub-Key-System/main/Godly%20Hub%20Mad%20City%20Key%20System", true))()
 end
